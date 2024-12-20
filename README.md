@@ -64,7 +64,7 @@ This project is released under the MIT License. See the `LICENSE` file for more 
 
 ## Author
 
-[Your name and/or your GitHub username]
+[Domqwerty](https://github.com/Domqwerty)
 
 ## Contributions
 
